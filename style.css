@@ -1,0 +1,78 @@
+body{
+  background-image: url(file:///C:/Users/dhaou/OneDrive/Desktop/cod.challenge/background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.rectangle{
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-left:100px;
+  width: 830px;
+  height: 650px;
+  margin: 45px;
+  border-radius: 15px;
+  }
+
+.container{
+  width:1000px;
+  margin:auto;
+}
+
+.count{
+  text-align: center;
+}
+
+.logo{
+  width: 300px;
+}
+
+.logo-text{
+  font-size: 25px;
+  color: #00ff00;
+}
+
+nav{
+  background-color: #00ff00;
+  width: 90%;
+  padding:7px
+}
+
+.arrow:before{
+  content:"\21A6";
+}
+
+.rettangolo {
+   background-color: orange;
+   padding: 10px;
+   width: 30%;
+   border-radius: 5px;
+
+}
+
+.secrettangolo{
+   background-color: #00ff00;
+   padding: 10px;
+   width: 55%;
+   border-radius: 5px;
+}
+.thrrettangolo{
+   background-color: red;
+   padding: 10px;
+   width: 12%;
+   border-radius: 5px;
+}
+
+.subject{
+   display: inline-block;
+   font-size: 18px;
+}
+
+.body-charge>span{
+    display: inline-block;
+    font-size: 15px;
+}
+
+.space{
+    padding: 10px;
+    margin:30px;
+}
